@@ -1,0 +1,18 @@
+O que é git?
+Git é o sistema de controle de versão open source mais usado no mundo atualmente! Ele é usado para controlar o histórico de alterações de arquivos e principalmente de projetos de desenvolvimento de software. Ele permite mais flexibilidade no fluxo de trabalho, segurança e desempenho.
+
+Principais comandos a utilizar:
+Iniciar com GitBash e no terminal digitar para:
+- ls - lista as pastas que tem naquele arquivo;
+- mkdir - cria uma nova pasta dentra daquela pasta;
+- cd (nome da pasta) - entra naquela pasta;
+- cd .. -  sai daquela pasta e volta para a anterior.
+
+- git init - inicializa um repositório;
+- git clone - clona um repositório externo (github);
+- git pull - puxa os dados do repositório externo para o local;
+- git push - empurra os dados do repositorio local para o externo;
+
+Quando já existe um repo local e eu crio o github e quero enviar os dados do local para o remoto:
+git remote add origin (http://...... github)
+
